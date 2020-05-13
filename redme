@@ -1,0 +1,26 @@
+基于golang实现的缓存框架
+
+GO NEW CACHE
+
+JSR107 CACHE API
+
+配置文件
+
+独立部署TCP
+
+RESFUL
+
+缓存监听
+
+数据存储引擎
+
+数列化方式
+
+集群
+
+去中心节点
+
+gossip
+
+高可用、可伸缩
+
